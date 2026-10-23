@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkzrt=self.webpackChunkzrt||[]).push([[392],{392(e,t,l){l.r(t);l.d(t,["default",0,function(){return React.createElement("div",null,React.createElement("h1",null,"Shop"))}])}}]);
